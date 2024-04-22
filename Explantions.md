@@ -53,3 +53,10 @@ Callbacks :
         }
 
         calculator(5,10,sum)
+
+Promise : 
+
+    Pending
+    Resolve
+    Rejected
+
